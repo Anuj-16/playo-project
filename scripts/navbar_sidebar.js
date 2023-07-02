@@ -3,7 +3,7 @@ function navbarsidebar(){
     return ` <div id="navbox">
 
     <div id="navbox_img">
-    <a href="index.html">   <img src="https://playo-website.gumlet.net/logo/playo-logo-header-website.png?auto=compress,format&h=100" height="100%" width="100%"/></a>
+    <a href="index.html">   <img src="https://playo-website.gumlet.io/playo-website-v2/Logo+with+Trademark_Filled.png" height="100%" width="100%"/></a>
     </div>
     
     <div id="navdiv">
